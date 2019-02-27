@@ -2,6 +2,7 @@
 Narzędzia o których mowiłem podczas prezentacji o architekturze
 
 https://babeljs.io/
+
 https://webpack.js.org/
 https://en.parceljs.org/
 https://www.npmjs.com/package/webpack-bundle-analyzer
